@@ -12,9 +12,9 @@ type rashodniki struct{
 }
 
 func main() {
-    x := rashodniki{ 390, 540, 120, 400, 9}
     var inp int
     var input string
+    x := rashodniki{ 390, 540, 120, 400, 9}
     fmt.Print("Введите команду(buy,fill,take,stat,exit):\n")
     fmt.Scan(&input)
     if input == "buy"{
