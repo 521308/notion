@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "money": 390,
+      "water": 540,
+      "milk": 400,
+      "coffee": 120,
+      "cups": 9
+    }
+  ]
+}
